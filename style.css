@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-menu {
+    width: 500px;
+    padding: 25px 20px 50px 20px;
+    background-color: rgb(162, 162, 162);
+    border-radius: 20px;
+    margin: 40px;
+}
+
+.card-title {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.credit-card {
+    height: 260px;
+    background-color: rgb(27, 27, 27);
+    border-radius: 20px;
+    position: relative;
+    left: 100px;
+}
+
+.card-button {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(27, 27, 27);
+    font-size: 600;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 15px 0;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+.credit-card-logo {
+    width: 100px;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.credit-card-top-text {
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    left: 28px;
+    top: 40px;
+   
+}
+
+.credit-card-bottom-text {
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    left: 28px;
+    bottom: 20px;
+}
+
+.credit-card-text {
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: 28px;
+    bottom: 60px;
+}
